@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marlon</h1>
-<h3 align="center">A passionate Android ROM maintainer (@PixelExperience) and DevOps Engineer (@sniccowp)</h3>
+<h3 align="center">A passionate Android ROM maintainer (<a href="https://github.com/PixelExperience">@PixelExperience</a>) and DevOps Engineer (<a href="https://github.com/sniccowp">@sniccowp</a>)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maluueu&label=Profile%20views&color=0e75b6&style=flat" alt="maluueu" /> </p>
 
