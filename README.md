@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marlon</h1>
-<h3 align="center">A dual student (<a href="https://github.com/bosch">@BOSCH</a>) currently studying computer science. I'm also a passionate Android ROM maintainer (<a href="https://github.com/PixelExperience">@PixelExperience</a>) and work as a DevOps Engineer (<a href="https://github.com/snicco">@snicco</a>).</h3>
+<h3 align="center">A dual student (<a href="https://github.com/bosch">@BOSCH</a>) currently studying computer science. I've been a passionate Android ROM maintainer (<a href="https://github.com/PixelExperience">@PixelExperience</a>, sadly a discontinued project now) and worked as a DevOps Engineer (<a href="https://github.com/snicco">@snicco</a>).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maluueu&label=Profile%20views&color=0e75b6&style=flat" alt="maluueu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maluueu" alt="maluueu" /></a> </p>
 
-- 🔭 I’m currently maintaining [PixelExperience for monet/vangogh](https://github.com/PixelExperience-Devices/device_xiaomi_sm7250-common) (Xiaomi Mi 10 Lite 5G | Xiaomi Mi 10 Lite Zoom/Youth Edition)
+- 🔭 I maintained [PixelExperience for monet/vangogh](https://github.com/PixelExperience-Devices/device_xiaomi_sm7250-common) (Xiaomi Mi 10 Lite 5G | Xiaomi Mi 10 Lite Zoom/Youth Edition)
 
 - 📫 Reach me via E-Mail: [**info@maluu.eu**](mailto:info@maluu.eu) or via Telegram: [**@maluueu**](https://t.me/maluueu)
 
